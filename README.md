@@ -28,8 +28,8 @@ If you have a question that isn't suitable for EdStem and there is a need to ema
 **Office hours**:  
 Default is in person, but email us to request zoom if need be.  
 Brenden Lake TBD  
-Todd Gureckis TBD
-Solim LeGris TBD
+Todd Gureckis TBD  
+Solim LeGris TBD  
 Cindy Luo TBD
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
@@ -86,7 +86,8 @@ Live lectures are
 - Thurs. Mar. 21: No class, Spring break
 - Thurs. Mar. 28: Model comparison and fitting, tricks of the trade
 <!-- ([slides](slides/lecture-09-modelfit.pdf))  -->
-- Thurs. Apr 4: Categorization ([slides](slides/lecture-10-categorization.pdf))
+- Thurs. Apr 4: Categorization
+<!-- ([slides](slides/lecture-10-categorization.pdf)) -->
   - Project proposal is due
   - Homework 4 assigned (Due 4/18) (instructions for accessing [here](retrieving_hw.md))
 - Thurs. Apr 11: Probabilistic Graphical models 
