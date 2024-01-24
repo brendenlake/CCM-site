@@ -16,18 +16,18 @@ Fridays 12:30-1:20PM in 12 Waverly Pl Room G08. Labs are recorded.
 DS-GA 1016 (Data Science)  
 PSYCH-GA 3405.004 (Psychology)  
 
-**Contact information and EdStem**:  
-The [class EdStem page](X) is the main point of contact. We use EdStem for questions and class discussions. Rather than emailing questions to the teaching staff, please post your questions on EdStem. It will get you a faster response and the answer will benefit others with the same question.
+**Contact information and Ed Discussion**:  
+The [class Ed Discussion page](https://edstem.org/us/courses/55155/discussion/) is the main point of contact. We use Ed Discussion for questions and class discussions. Rather than emailing questions to the teaching staff, please post your questions on Ed Discussion. It will get you a faster response and the answer will benefit others with the same question.
 
-Enrolled students should automatically have access to the EdStem. If for whatever reason this isn't the case for you, a signup link for our EdStem page is available here ([X](X)).
+Enrolled students should automatically have access to the Ed Discussion. If for whatever reason this isn't the case for you, a signup link for our Ed Discussion page is available here ([https://edstem.org/us/join/xCQY7G](https://edstem.org/us/join/xCQY7G)).
 
-Once enrolled, our class EdStem page is available here ([X](X)).
+Once enrolled, our class Ed Discussion page is available here ([https://edstem.org/us/courses/55155/discussion/](https://edstem.org/us/courses/55155/discussion/)).
 
-If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: **instructors-ccm-spring2024@googlegroups.com**
+If you have a question that isn't suitable for Ed Discussion and there is a need to email the teaching staff directly, please use the following email address: **instructors-ccm-spring2024@googlegroups.com**
 
 **Office hours**:  
 Default is in person, but email us to request zoom if need be.  
-Brenden Lake TBD  
+Brenden Lake, Mondays 4:30-5:30pm, 60 5th Ave., Room 610
 Todd Gureckis TBD  
 Solim LeGris TBD  
 Cindy Luo TBD
@@ -121,7 +121,7 @@ Fridays 12:30-1:20PM (in person or zoom)
 - Fri. May 3, TBD
 
 ## Readings
-For each major topic, there are assigned readings that go with the lectures.  The papers were selected to be fundamental readings on this topic any computational cognitive scientist would be expected to know.   You should aim to read these over the semester, especially during the periods when we are covering the same topic. The papers should be downloadable on Google Scholar via NYU Library.  However, they are available for download on EdStem website under the "resources" tab (see the down-pointing arrow along the top bar or [this link](X)).
+For each major topic, there are assigned readings that go with the lectures.  The papers were selected to be fundamental readings on this topic any computational cognitive scientist would be expected to know.   You should aim to read these over the semester, especially during the periods when we are covering the same topic. The papers should be downloadable on Google Scholar via NYU Library.  However, they are available for download on Ed Discussion website under the "resources" tab (see the down-pointing arrow along the top bar or [this link](https://edstem.org/us/courses/55155/discussion/)).
 
 **Neural networks and deep learning**
 - McClelland, J. L., Rumelhart, D. E., & Hinton, G. E. The Appeal of Parallel Distributed Processing. Vol I, Ch 1.
@@ -190,4 +190,4 @@ If you feel there was a mistake in the grading of your assignment, **you can for
 No extra credit will be given, out of interest of fairness.
 
 ## Preconfigured cloud environment
-Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their nyu net ids [here](X). 
+Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their nyu net ids [here](https://dsga-1016-spring.rcnyu.org/). 
