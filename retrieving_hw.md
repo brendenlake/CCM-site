@@ -7,7 +7,7 @@ rather than your own personal computer, the homeworks are stored in the folder `
 
 You can load the homework by clicking on `class_materials/homeworks/homework-NeuralNet` (or whatever the name is) in the top directory of your JupyterHub instance.
 
-**IMPORTANT**: When you use notebooks on the NYU Jupyterhub you need to change the default kernel of the notebook.  First open a notebook.  Then selected "Kernel" from the menu bar.  Then select "Change Kernel" and then select "Python \[conda env:CCM2023\]" from the list.  Otherwise your python environment may not have the necessary packages to do the homework.  In any case please always verify that the current notebook you are running says "Python \[conda env:CCM2023\]" in the upper right corner of the interface.
+**IMPORTANT**: When you use notebooks on the NYU Jupyterhub you need to change the default kernel of the notebook.  First open a notebook.  Then selected "Kernel" from the menu bar.  Then select "Change Kernel" and then select "Python \[conda env:ccm\]" from the list.  Otherwise your python environment may not have the necessary packages to do the homework.  In any case please always verify that the current notebook you are running says "Python \[conda env:ccm\]" in the upper right corner of the interface.
 
 If you are running your own Jupyter instance use the following instructions to download
 the homeworks.
