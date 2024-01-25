@@ -29,8 +29,8 @@ If you have a question that isn't suitable for Ed Discussion and there is a need
 Default is in person, but email us to request zoom if need be.  
 Brenden Lake, Mondays 4:30-5:30pm, 60 5th Ave., Room 610
 Todd Gureckis TBD  
-Solim LeGris TBD  
-Cindy Luo TBD
+Solim LeGris, Tuesdays, 1-2pm, 6 Washington Place, Room 593  
+Cindy Luo, Mondays 2-3pm, 60 5th Ave., Room 242
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
