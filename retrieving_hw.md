@@ -1,6 +1,6 @@
 # Obtaining the Homework
 
-If you are using the university provided Jupyter instance ([here](https://dsgs-3001006-spring.rcnyu.org/)) 
+If you are using the university provided Jupyter instance ([here](https://dsga-1016-spring.rcnyu.org/)) 
 rather than your own personal computer, the homeworks are stored in the folder `class_materials.` This folder will update every time you log in with any new homeworks or changes.
 
 ## Working on the files on the JupyterHub
