@@ -27,8 +27,8 @@ If you have a question that isn't suitable for Ed Discussion and there is a need
 
 **Office hours**:  
 Default is in person, but email us to request zoom if need be.  
-Brenden Lake, Mondays 4:30-5:30pm, 60 5th Ave., Room 610
-Todd Gureckis TBD  
+Brenden Lake, Mondays 4:30-5:30pm, 60 5th Ave., Room 610  
+Todd Gureckis, Wednesdays, 2-3pm, 6 Washington Place, Room 590    
 Solim LeGris, Tuesdays, 1-2pm, 6 Washington Place, Room 593  
 Cindy Luo, Mondays 2-3pm, 60 5th Ave., Room 242
 
