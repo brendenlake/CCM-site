@@ -72,8 +72,8 @@ Live lectures are
   - Homework 1 assigned (Due 2/15) (instructions for accessing [here](retrieving_hw.md))
 - Thurs. Feb. 8: Neural networks / Deep learning (part 2)
 ([slides](slides/lecture-03-neural_nets.pdf))
-- Thurs. Feb. 15: Reinforcement learning (part 1)
-<!-- ([slides](slides/lecture-04-reinforcementlearning.pdf)) -->
+- Thurs. Feb. 15: Reinforcement learning (part 1) 
+([slides](slides/lecture-04-reinforcementlearning.pdf))
 - Thurs. Feb. 22: Reinforcement learning (part 2)
 <!-- ([slides](slides/lecture-05-reinforcementlearning.pdf)) -->
   - Homework 2 assigned (Due 3/7) (instructions for accessing [here](retrieving_hw.md))
