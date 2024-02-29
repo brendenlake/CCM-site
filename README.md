@@ -76,8 +76,7 @@ Live lectures are
 ([slides](slides/lecture-04-reinforcementlearning.pdf))
 - Thurs. Feb. 22: Reinforcement learning (part 2) ([slides](slides/lecture-05-reinforcementlearning.pdf))
   - Homework 2 assigned (Due 3/7) (instructions for accessing [here](retrieving_hw.md))
-- Thurs. Feb. 29: Reinforcement learning (part 3)
-<!-- ([slides](slides/lecture-06-reinforcementlearning.pdf)) -->
+- Thurs. Feb. 29: Reinforcement learning (part 3) ([slides](slides/lecture-06-reinforcementlearning.pdf))
 - Thurs. Mar 7: Bayesian modeling (part 1)
 <!-- ([slides](slides/lecture-07%2B08-bayesian_modeling.pdf?dl=0)) -->
   - Homework 3 assigned (Due 3/28) (instructions for accessing [here](retrieving_hw.md))
