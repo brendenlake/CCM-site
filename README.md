@@ -49,7 +49,7 @@ The final grade is based on the homeworks (65%) and the final project (35%).
 Class participation may be used to decide grades in borderline cases.   
 
 ## Final Project
-The final project proposal is due April 10 (0.5 pages written). Please submit via email to instructors-ccm-spring2024@googlegroups.com **with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf**. Make sure to include the names of all of your group members at the top of the document too.
+The final project proposal is due April 11 (0.5 pages written). Please submit via email to instructors-ccm-spring2024@googlegroups.com **with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf**. Make sure to include the names of all of your group members at the top of the document too.
 
 The final project is due May 10. Please submit via email to instructors-ccm-spring2024@googlegroups.com **with the file name lastname1-lastname2-lastname3-ccm-final.pdf**. Make sure to include the names of all of your group members at the top of the document too.
 
@@ -85,15 +85,15 @@ Live lectures are
 - Thurs. Mar. 28: Model comparison and fitting, tricks of the trade
 <!-- ([slides](slides/lecture-09-modelfit.pdf))  -->
 - Thurs. Apr 4: Categorization
-<!-- ([slides](slides/lecture-10-categorization.pdf)) -->
-  - Project proposal is due
+<!-- ([slides](slides/lecture-10-categorization.pdf)) -->  
   - Homework 4 assigned (Due 4/18) (instructions for accessing [here](retrieving_hw.md))
 - Thurs. Apr 11: Probabilistic Graphical models 
+  - Project proposal is due
 <!-- ([slides](slides/lecture-11-graphical_models.pdf)) -->
-- Thurs. Apr 18: Information sampling and active learning 
-<!-- ([slides](slides/lecture-12-activelearning.pdf))  -->
-- Thurs. April 25: Program induction and language of thought models 
+- Thurs. April 18: Program induction and language of thought models 
 <!-- ([slides](slides/lecture-13-program_induction.pdf)) -->
+- Thurs. Apr 25: Information sampling and active learning 
+<!-- ([slides](slides/lecture-12-activelearning.pdf))  -->
 - Thurs. May 2: Computational Cognitive Neuroscience
 <!-- ([slides](slides/lecture-14-computational_cognitive_neuroscience.pdf)) -->
 <!-- - Final summary ([video](https://vimeo.com/706313158)) -->
