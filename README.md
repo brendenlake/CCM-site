@@ -91,8 +91,8 @@ Live lectures are
 - Thurs. Mar 14: Bayesian modeling (part 2)(same slides as part 1)
 - Thurs. Mar. 21: No class, Spring break
 - Thurs. Mar. 28: Model comparison and fitting, tricks of the trade ([slides](slides/lecture-09-modelfit.pdf))
-- Thurs. Apr 4: Categorization
-<!-- ([slides](slides/lecture-10-categorization.pdf)) -->  
+- Thurs. Apr 4: Categorization ([slides](slides/lecture-10-categorization.pdf)) 
+  - Project proposal is due
   - Homework 4 assigned (Due 4/18) (instructions for accessing [here](retrieving_hw.md))
 - Thurs. Apr 11: Probabilistic Graphical models 
   - Project proposal is due
