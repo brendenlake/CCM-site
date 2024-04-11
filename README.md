@@ -51,14 +51,7 @@ The final grade is based on the homeworks (65%) and the final project (35%).
 Class participation may be used to decide grades in borderline cases.
 
 ## Final Project
-<<<<<<< HEAD
 The final project proposal is due April 11 (0.5 pages written). Please submit via email to instructors-ccm-spring2024@googlegroups.com **with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf**. Make sure to include the names of all of your group members at the top of the document too.
-=======
-
-The final project proposal is due April 10 (0.5 pages written). Please submit via email to instructors-ccm-spring2024@googlegroups.com **with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf**. Make sure to include the names of all of your group members at the top of the document too.
->>>>>>> 713d4f57f2617f045f85cd17e91c27263ba8e351
-
-The final project is due May 10. Please submit via email to instructors-ccm-spring2024@googlegroups.com **with the file name lastname1-lastname2-lastname3-ccm-final.pdf**. Make sure to include the names of all of your group members at the top of the document too.
 
 The final project will be done in groups of 3-4 students. A short paper will be turned in describing the project (approximately 6 pages). The project will represent either a substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a cognitive modeling project related to your research. We provide a list of project ideas [here](final_project_ideas.md), but of course, you do not have to choose from this list.
 
