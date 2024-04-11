@@ -96,9 +96,9 @@ Live lectures are
   - Homework 4 assigned (Due 4/22) (instructions for accessing [here](retrieving_hw.md))
 - Thurs. Apr 11: Probabilistic Graphical models 
   - Project proposal is due
-<!-- ([slides](slides/lecture-11-graphical_models.pdf)) -->
+([slides](slides/lecture-11-graphical_models.pdf))
 - Thurs. April 18: Program induction and language of thought models 
-<!-- ([slides](slides/lecture-13-program_induction.pdf)) -->
+([slides](slides/lecture-13-program_induction.pdf))
 - Thurs. Apr 25: Information sampling and active learning 
 <!-- ([slides](slides/lecture-12-activelearning.pdf))  -->
 - Thurs. May 2: Computational Cognitive Neuroscience
