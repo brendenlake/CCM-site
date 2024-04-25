@@ -92,8 +92,7 @@ Live lectures are
 ([slides](slides/lecture-11-graphical_models.pdf))
 - Thurs. April 18: Program induction and language of thought models 
 ([slides](slides/lecture-13-program_induction.pdf))
-- Thurs. Apr 25: Information sampling and active learning 
-<!-- ([slides](slides/lecture-12-activelearning.pdf))  -->
+- Thurs. Apr 25: Information sampling and active learning ([slides](slides/lecture-12-activelearning.pdf))
 - Thurs. May 2: Computational Cognitive Neuroscience
   <!-- ([slides](slides/lecture-14-computational_cognitive_neuroscience.pdf)) -->
   <!-- - Final summary ([video](https://vimeo.com/706313158)) -->
